@@ -1,0 +1,72 @@
+BODY
+{
+		margin:0px;font-size:13px;font-family:arial;color:#3F3F3F; background-color:#E6DAC4;
+}
+	.outer
+	{
+		width:779px;
+	}
+	.name
+	{	
+		height:60px; text-transform:uppercase; font-size:30px; color:#DD261C; line-height:60px; padding-left:15px;
+	}
+.toplinks
+{
+	height:34px; width:148px; text-align:center; font-weight:bold; font-size:12px; text-transform:uppercase;
+}
+.toplinks a
+{
+	text-decoration:none;color:#383838;
+}
+.toplinks a:hover
+{
+	text-decoration:none;color:#D9271D;
+}
+.sap
+{
+	width:1px; color:#383838;
+}
+.leftlinks
+{height:25px; line-height:25px; font-family:tahoma; font-size:11px; padding-left:13px; border-bottom:1px dashed #DB928A;}
+.leftlinks a
+{text-decoration:none;color:#8E4F4A;}
+.leftlinks a:hover
+{text-decoration:none; color:#000000;}
+.cat-head
+{height:38px; text-decoration:none;color:#A70B20;padding-left:15px; font-weight:bold; border-bottom:1px solid #383838;}
+.heading
+{font-size:18px; color:#505050; padding-left:20px; padding-bottom:5px; border-bottom:1px solid #c2c2c2}
+#main
+{text-align:justify; padding-left:20px; padding-right:20px; padding-top:10px; font-size:11px; font-family:tahoma;}
+.heading2
+{height:40px; line-height:40px; text-decoration:none;color:#474747;padding-left:15px; text-transform:uppercase; font-weight:bold;border-bottom: 1px dotted #49191C;}
+.bottomlinks
+{width:100px; font-size:11px; text-align:center; font-family:tahoma;}
+.bottomlinks a
+{color:#000000; text-decoration:none;}
+.bottomlinks a:hover
+{color:#ffffff;text-decoration:none;}
+.sap2{color:#000000;width:1px;}
+a{color:#D9271D; text-decoration:underline;}
+a:hover{color:#D9271D; text-decoration:none;}
+.box-border
+{width:280px; height:220px; border:1px solid #E3DFDF;}
+.box-head
+{height:30px; text-transform:uppercase; font-family:tahoma; font-size:12px; color:#000000; padding-left:20px; background-color:#EDEDED; font-weight:bold;}
+.smal-txt
+{font-family:tahoma; font-size:11px; color:#000000; padding-left:15px;}
+.price
+{font-family:tahoma; font-size:13px; color:#000000; font-weight:bold; }
+.add
+{height:16px; font-weight:bold; font-size:11px; font-family:tahoma; background-image:url(images/add.gif); background-repeat:no-repeat; color:#ffffff; padding-left:10px;}
+.add a
+{text-decoration:none;color:#ffffff;}
+.add a:hover
+{text-decoration:none; color:#000000;}
+.details
+{height:16px; font-weight:bold; font-size:11px; font-family:tahoma; background-image:url(images/details.gif); background-repeat:no-repeat; color:#ffffff; padding-left:10px;}
+.details a
+{text-decoration:none;color:#ffffff;}
+.details a:hover
+{text-decoration:none; color:#000000;}
+

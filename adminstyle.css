@@ -1,0 +1,164 @@
+BODY
+{
+		margin:0px;font-size:13px;font-family:tahoma;color:#3F3F3F; background-color:#E6DAC4;
+}
+	.outer
+	{
+		width:779px;
+	}
+	.name
+	{	
+		height:60px; text-transform:uppercase; font-size:30px; color:#DD261C; line-height:60px; padding-left:15px;
+	}
+.toplinks
+{height:34px; width:148px; text-align:center; font-weight:bold; font-size:12px; text-transform:uppercase;}
+.toplinks a
+{text-decoration:none;color:#383838;}
+.toplinks a:hover
+{text-decoration:none;color:#D9271D;}
+.sap
+{width:1px; color:#383838;}
+.leftlinks
+{height:25px; line-height:25px; font-family:tahoma; font-size:11px; padding-left:13px; border-bottom:1px dashed #DB928A;}
+.leftlinks a
+{text-decoration:none;color:#8E4F4A;}
+.leftlinks a:hover
+{text-decoration:none; color:#000000;}
+.cat-head
+{height:38px; text-decoration:none;color:#A70B20;padding-left:15px; font-weight:bold; border-bottom:1px solid #383838;}
+.heading
+{font-size:18px; color:#505050; padding-left:20px; padding-bottom:5px; border-bottom:1px solid #c2c2c2}
+#main
+{text-align:justify; padding-left:20px; padding-right:20px; padding-top:10px; font-size:11px; font-family:tahoma;}
+.heading2
+{height:40px; line-height:40px; text-decoration:none;color:#474747;padding-left:15px; text-transform:uppercase; font-weight:bold;}
+.bottomlinks
+{width:100px; font-size:11px; text-align:center; font-family:tahoma;}
+.bottomlinks a
+{color:#000000; text-decoration:none;}
+.bottomlinks a:hover
+{color:#ffffff;text-decoration:none;}
+.sap2{color:#000000;width:1px;}
+a{color:#D9271D; text-decoration:underline;}
+a:hover{color:#D9271D; text-decoration:none;}
+.box-border
+{width:280px; height:220px; border:1px solid #E3DFDF;}
+.box-head
+{height:30px; text-transform:uppercase; font-family:tahoma; font-size:12px; color:#000000; padding-left:20px; background-color:#EDEDED; font-weight:bold;}
+.smal-txt
+{font-family:tahoma; font-size:11px; color:#000000; padding-left:15px;}
+.price
+{font-family:tahoma; font-size:15px; color:#000000; font-weight:bold; }
+.add
+{height:16px; font-weight:bold; font-size:11px; font-family:tahoma; background-image:url(images/add.gif); background-repeat:no-repeat; color:#ffffff; padding-left:10px;}
+.add a
+{text-decoration:none;color:#ffffff;}
+.add a:hover
+{text-decoration:none; color:#000000;}
+.details
+{height:16px; font-weight:bold; font-size:11px; font-family:tahoma; background-image:url(images/details.gif); background-repeat:no-repeat; color:#ffffff; padding-left:10px;}
+.details a
+{text-decoration:none;color:#ffffff;}
+.details a:hover
+{text-decoration:none; color:#000000;}
+
+
+
+
+h2 {
+	font: normal 160% Georgia;
+	color: #49191C;
+	background-color: transparent;
+	border-bottom: 1px dotted #49191C;
+}
+
+#header {
+	position: relative;
+    background-image: url(images/banner.jpg);
+	background-repeat: no-repeat;
+	margin-right: auto;
+	margin-left: auto;
+	width: 780px;
+	border: 1px solid #49191C;
+	padding-top: 150px; 
+	text-align: left;
+}
+
+#content {
+	margin-left: 200px;
+	padding: 20px 10px 0 0;
+}
+
+table {
+	font-family: Tahoma; 
+	font-size: 8pt;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #dd261c;
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+th{
+	color: #FFFFFF;
+	font-size: 7pt;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0.5em;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #dd261c;
+	border-collapse: collapse;
+	background-color: #49191C;
+}
+td{
+	padding: 0.5em;
+	vertical-align: top;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #dd261c;
+	border-collapse: collapse;
+}
+#menu {
+	position: absolute;
+	top: 177px;
+	left: 0;
+	width: 180px;
+}
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+#menu li {
+	width: 180px;
+	border-bottom: 1px solid #49191C;
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	vertical-align: bottom; 
+}
+#menu a:link, #menu a:visited {
+	display: block;
+	padding: 5px 5px 5px 0.5em;
+	border-left: 14px solid #49191C;
+	border-right: 1px solid #49191C;
+	background-color: #FFFFFF;
+	color: #49191C;
+	text-decoration: none;
+}
+#menu a:hover {
+	background-color: #49191C;
+	color: #FFFFFF;
+}
+#footer{
+	padding: 20px 0 10px 255px;
+	font-size: 70%;
+	color: #FFFFFF;
+	background-image:url(../images/foot.jpg);
+}
+.alertmerah {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #FF0000;
+}
